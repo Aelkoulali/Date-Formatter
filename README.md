@@ -1,6 +1,5 @@
-# Date Formatter
-## Using HTML, CSS & JAVASCRIPT
-## Key Concepts :
-### getDate() method
-### getMonth() method
-### getFullYear() method
+# 🗂️ Date Formatter 📅 
+## ➡️ Key Concepts :
+### ✅ getDate() method
+### ✅ getMonth() method
+### ✅ getFullYear() method
