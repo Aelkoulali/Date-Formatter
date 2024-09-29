@@ -1,3 +1,4 @@
+// Declare variables
 const currentDateParagraph = document.getElementById("current-date");
 const dateOptionsSelectElement = document.getElementById("date-options");
 
@@ -11,6 +12,7 @@ const minutes = date.getMinutes();
 const formattedDate = `${day}-${month}-${year}`;
 currentDateParagraph.textContent = formattedDate;
 
+// Add addEventListener 
 dateOptionsSelectElement.addEventListener("change", () => {
     switch  (dateOptionsSelectElement.value) {
         case "yyyy-mm-dd":
